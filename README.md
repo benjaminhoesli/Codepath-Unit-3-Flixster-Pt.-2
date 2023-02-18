@@ -27,7 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/c45876c1741f441b96eedc74728cbd32' width='' alt='Video Walkthrough' />
+<a href="https://www.loom.com/share/c45876c1741f441b96eedc74728cbd32">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c45876c1741f441b96eedc74728cbd32-with-play.gif">
+  </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom
